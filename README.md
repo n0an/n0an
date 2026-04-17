@@ -1,6 +1,6 @@
 # Hi, I'm Anton 👋
 
-📍 **Spain** | 📱 **iOS Engineer** | **Swift, SwiftUI** | 🤖 **Applied AI · Apple Foundation Models · MLX · Core ML**
+📍 **Spain** | 📱 **iOS + watchOS + macOS** | **Swift, SwiftUI** | 🤖 **Applied AI · On-device LLMs · RAG · Apple Foundation Model · MLX**
 
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)

@@ -14,7 +14,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=openai&logoColor=white)
 
-> Building iOS and macOS apps with applied AI - from cloud to on-device.
+> Building iOS, watchOS, and macOS apps with applied AI - from cloud to on-device.
 
 ## Current Projects
 

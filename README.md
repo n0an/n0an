@@ -19,8 +19,8 @@
 ## Current Projects
 
 - 🎙️ **[VivaDicta](https://github.com/n0an/VivaDicta)** - Privacy-first iOS & watchOS voice-to-text app with AI voice keyboard and on-device RAG - dictate into any app, chat with your notes, find notes by meaning. Powered by Apple Foundation Model, WhisperKit, NVIDIA Parakeet, and 20+ AI providers. Use existing AI subscriptions via OAuth sign-in or CLI agents (Claude Code, Codex, Gemini CLI)
-- 🖥️ **[VivaDicta for Mac](https://vivadicta.com)** - macOS voice-to-text app with system-wide dictation, on-device inference via Apple Foundation Models and MLX, 15+ cloud AI providers, built-in AI Assistant, and deep context awareness
-- ✍️ **[Benescript](https://benescript.app)** - AI writing assistant for Mac - check grammar, translate, or rephrase selected text with one shortcut. On-device via Apple Foundation Models and MLX, plus 10+ cloud AI providers
+- 🖥️ **[VivaDicta for Mac](https://vivadicta.com)** - macOS voice-to-text app with system-wide dictation, on-device inference via Apple Foundation Models and MLX, 20+ cloud AI providers, built-in AI Assistant, and deep context awareness
+- ✍️ **[Benescript](https://benescript.app)** - AI writing assistant for Mac - check grammar, translate, or rephrase selected text with one shortcut. On-device via Apple Foundation Models and MLX, plus 20+ cloud AI providers
 - 🤖 **[vivagents](https://github.com/n0an/vivagents)** - HTTP API server that wraps Claude Code, Codex, and Gemini CLI - run coding agents from any app
 - 📰 **[HackerNewsAI](https://github.com/n0an/HackerNewsAI)** - Hacker News reader for iOS and Mac with AI summaries via Apple Foundation Models, MLX, and Anthropic API
 - 📟 **[hackernewsai-cli](https://github.com/n0an/hackernewsai-cli)** - AI-powered Hacker News digest in your terminal, built with Go. Supports multiple AI providers (Anthropic, OpenAI, Gemini, Ollama)

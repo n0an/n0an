@@ -3,8 +3,8 @@
 📍 **Spain** | 📱 **iOS Engineer · macOS · watchOS** | **Swift, SwiftUI** | 🤖 **Applied AI · On-device inference · Apple Foundation Model · MLX**
 
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![watchOS](https://img.shields.io/badge/-watchOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![watchOS](https://img.shields.io/badge/-watchOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)

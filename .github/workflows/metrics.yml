@@ -28,6 +28,8 @@ jobs:
           filename: metrics-calendar.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: |
+            h2 { display: none !important; }
           output_action: none
 
       - name: Copy generated metrics

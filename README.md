@@ -44,7 +44,3 @@
 <div align="center">
   <img src="./metrics-calendar.svg" alt="Calendar metrics" />
 </div>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub activity 3D" />
-</div>

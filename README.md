@@ -38,3 +38,24 @@
 [![Twitter](https://img.shields.io/badge/-@_antonnovoselov-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/_antonnovoselov)
 [![LinkedIn](https://img.shields.io/badge/-Anton_Novoselov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-novoselov/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/n0an)
+
+## GitHub Stats
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./metrics-overview.svg" alt="Overview metrics" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./metrics-calendar.svg" alt="Calendar metrics" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./github-profile-trophy.svg" alt="GitHub profile trophies" />
+</div>
+
+<div align="center">
+  <img src="./metrics-reactions.svg" alt="Reactions metrics" />
+</div>

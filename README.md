@@ -27,7 +27,7 @@
 ### Also shipping
 
 - ✍️ **[Benescript](https://benescript.app)** - AI writing assistant for Mac - grammar, translate, rephrase selected text. Apple Foundation Models, MLX, and 20+ cloud providers
-- 🤖 **[vivagents](https://github.com/n0an/vivagents)** - HTTP API server wrapping Claude Code, Codex, and Gemini CLI - run coding agents from any app
+- 🤖 **[vivagents](https://github.com/n0an/vivagents)** - Wraps Claude Code, Codex, and Gemini CLI behind a simple HTTP API
 - 📰 **[HackerNewsAI](https://github.com/n0an/HackerNewsAI)** - Hacker News reader for iOS and Mac with AI summaries via Apple Foundation Models, MLX, and Anthropic
 - 📟 **[hackernewsai-cli](https://github.com/n0an/hackernewsai-cli)** - AI-powered Hacker News digest in your terminal, built with Go
 - ⌨️ **[HyperKey](https://github.com/n0an/hyperkey)** - macOS menu bar app that turns Caps Lock into a Hyper key

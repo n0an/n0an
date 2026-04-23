@@ -30,9 +30,6 @@
 - 🤖 **[vivagents](https://github.com/n0an/vivagents)** - HTTP API server wrapping Claude Code, Codex, and Gemini CLI - run coding agents from any app
 - 📰 **[HackerNewsAI](https://github.com/n0an/HackerNewsAI)** - Hacker News reader for iOS and Mac with AI summaries via Apple Foundation Models, MLX, and Anthropic
 - 📟 **[hackernewsai-cli](https://github.com/n0an/hackernewsai-cli)** - AI-powered Hacker News digest in your terminal, built with Go
-
-### Side projects
-
 - ⌨️ **[HyperKey](https://github.com/n0an/hyperkey)** - macOS menu bar app that turns Caps Lock into a Hyper key
 - 🔮 **[AstralKitty](https://t.me/AstralKitty_bot)** - Telegram AI assistant with memory, voice, vision, and image generation
 - ⚡ **[BlinkRead](https://t.me/BlinkRead_bot)** - Telegram summarizer for URLs, YouTube, articles, PDFs, and voice

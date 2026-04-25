@@ -1,6 +1,6 @@
 # Hi, I'm Anton 👋
 
-📍 **Spain** | 📱 **iOS Engineer · macOS · watchOS** | **Swift, SwiftUI** | 🤖 **Applied AI · Apple Foundation Model · MLX**
+📍 **Spain** | 📱 **iOS Engineer · macOS · watchOS** | **Swift, SwiftUI** | 🤖 **Applied AI · Apple Foundation Models · MLX**
 
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
@@ -20,7 +20,7 @@
 
 ### VivaDicta - AI voice productivity
 
-- 🎙️ **[VivaDicta](https://github.com/n0an/VivaDicta)** - iOS & watchOS speech-to-text app on App Store. AI voice keyboard, on-device RAG, chat with your notes. Apple Foundation Model, WhisperKit, NVIDIA Parakeet, and 20+ AI providers
+- 🎙️ **[VivaDicta](https://github.com/n0an/VivaDicta)** - iOS & watchOS speech-to-text app on App Store. AI voice keyboard, on-device RAG, chat with your notes. Apple Foundation Models, WhisperKit, NVIDIA Parakeet, and 20+ AI providers
 - 🖥️ **[VivaDicta for Mac](https://vivadicta.com)** - macOS speech-to-text app with system-wide dictation, MCP server, and CLI for agent orchestration. Apple Foundation Models and MLX on-device, 20+ cloud providers
 - 🛠️ **[vivadicta-cli-skills](https://github.com/n0an/vivadicta-cli-skills)** - 4 agent skills for driving the VivaDicta CLI from Claude Code, Cursor, and Codex
 

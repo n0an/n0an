@@ -22,6 +22,14 @@
 
 - 🎙️ **[VivaDicta](https://github.com/n0an/VivaDicta)** - iOS & watchOS speech-to-text app on App Store. AI voice keyboard, on-device RAG, chat with your notes. Apple Foundation Models, WhisperKit, NVIDIA Parakeet, and 20+ AI providers
 - 🖥️ **[VivaDicta for Mac](https://vivadicta.com)** - macOS speech-to-text app with system-wide dictation, MCP server, and CLI for agent orchestration. Apple Foundation Models and MLX on-device, 20+ cloud providers
+
+### Agent Skills
+
+- 🧩 **[skills](https://github.com/n0an/skills)** - Collection of agent skills for Claude Code, Codex, Gemini, and Cursor. Install via `npx skills add n0an/skills`
+  - **[app-intents](https://github.com/n0an/App-Intents-Agent-Skill)** - Writes correct Swift App Intents for Siri, Shortcuts, widgets, and Apple Intelligence; catches ~35 common LLM mistakes
+  - **[swift-format-style](https://github.com/n0an/Swift-FormatStyle-Agent-Skill)** - Modern Swift `FormatStyle` / `.formatted()` APIs
+  - **[git-codebase-preflight](https://github.com/n0an/git-codebase-preflight-skill)** - Audits a repo through git history before reading source
+  - **[ffmpeg](https://github.com/n0an/ffmpeg-skill)** - Categorized FFmpeg recipes for video automation
 - 🛠️ **[vivadicta-cli-skills](https://github.com/n0an/vivadicta-cli-skills)** - 4 agent skills for driving the VivaDicta CLI from Claude Code and Codex
 
 ### Also shipping

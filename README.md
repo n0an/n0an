@@ -30,7 +30,7 @@
 - **[app-intents](https://github.com/n0an/App-Intents-Agent-Skill)** - Writes correct Swift App Intents for Siri, Shortcuts, widgets, and Apple Intelligence; catches ~35 common LLM mistakes
 - **[swift-format-style](https://github.com/n0an/Swift-FormatStyle-Agent-Skill)** - Modern Swift `FormatStyle` / `.formatted()` APIs
 - **[git-codebase-preflight](https://github.com/n0an/git-codebase-preflight-skill)** - Audits a repo through git history before reading source
-- **[ffmpeg](https://github.com/n0an/ffmpeg-skill)** - Categorized FFmpeg recipes for video automation
+- **[ffmpeg](https://github.com/n0an/ffmpeg-skill)** - Categorized FFmpeg recipes for video and audio automation
 
 ### Also shipping
 

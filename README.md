@@ -28,6 +28,7 @@
 
 - **[skills](https://github.com/n0an/skills)** - Collection of agent skills for Claude Code, Codex, Gemini, and Cursor. Install via `npx skills add n0an/skills`
 - **[app-intents](https://github.com/n0an/App-Intents-Agent-Skill)** - Writes correct Swift App Intents for Siri, Shortcuts, widgets, and Apple Intelligence; catches ~35 common LLM mistakes
+- **[background-execution](https://github.com/n0an/Background-Execution-Agent-Skill)** - Writes correct Swift background-execution code - BGTaskScheduler, background URLSession, push, and background modes
 - **[swift-format-style](https://github.com/n0an/Swift-FormatStyle-Agent-Skill)** - Modern Swift `FormatStyle` / `.formatted()` APIs
 - **[git-codebase-preflight](https://github.com/n0an/git-codebase-preflight-skill)** - Audits a repo through git history before reading source
 - **[ffmpeg](https://github.com/n0an/ffmpeg-skill)** - Categorized FFmpeg recipes for video and audio automation

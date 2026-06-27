@@ -20,8 +20,8 @@
 
 ### VivaDicta - AI voice productivity
 
-- 🎙️ **[VivaDicta](https://github.com/n0an/VivaDicta)** - iOS & watchOS speech-to-text app on App Store. AI voice keyboard, on-device RAG, chat with your notes. Apple Foundation Models, WhisperKit, NVIDIA Parakeet, and 20+ AI providers
-- 🖥️ **[VivaDicta for Mac](https://vivadicta.com)** - macOS speech-to-text app with system-wide dictation, MCP server, and CLI for agent orchestration. Apple Foundation Models and MLX on-device, 20+ cloud providers
+- 🎙️ **[VivaDicta](https://github.com/n0an/VivaDicta)** - iOS & watchOS speech-to-text app on App Store. AI voice keyboard, on-device RAG, chat with your notes. On-device LLMs (Apple Foundation Models, Gemma, Qwen, Llama MLX), WhisperKit & NVIDIA Parakeet transcription, and 20+ cloud AI providers
+- 🖥️ **[VivaDicta for Mac](https://vivadicta.com)** - macOS speech-to-text app with system-wide dictation, MCP server, and CLI for agent orchestration. Apple Foundation Models and MLX on-device (Gemma, Qwen, Llama, GLM), 20+ cloud AI providers
 - 🛠️ **[vivadicta-cli-skills](https://github.com/n0an/vivadicta-cli-skills)** - 4 agent skills for driving the VivaDicta CLI from Claude Code and Codex
 
 ### Agent Skills

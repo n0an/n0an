@@ -27,6 +27,7 @@
 ### Agent Skills
 
 - **[skills](https://github.com/n0an/skills)** - Collection of agent skills for Claude Code, Codex, Gemini, and Cursor. Install via `npx skills add n0an/skills`
+- **[agent-gauntlet](https://github.com/n0an/agent-gauntlet)** - Multi-agent TDD pipeline with deterministic quality gates: Gherkin specs, complexity and coverage limits, mutation testing. Uncle Bob's "run the gauntlet" workflow as an installable skill and Claude Code plugin
 - **[app-intents](https://github.com/n0an/App-Intents-Agent-Skill)** - Writes correct Swift App Intents for Siri, Shortcuts, widgets, and Apple Intelligence; catches ~35 common LLM mistakes
 - **[background-execution](https://github.com/n0an/Background-Execution-Agent-Skill)** - Writes correct Swift background-execution code - BGTaskScheduler, background URLSession, push, and background modes
 - **[widgets](https://github.com/n0an/Widgets-Agent-Skill)** - Writes correct Swift WidgetKit code - Home Screen, Lock Screen, and watch widgets, Controls, Live Activities, and accented/tinted rendering

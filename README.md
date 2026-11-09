@@ -28,6 +28,7 @@
 
 - **[skills](https://github.com/n0an/skills)** - Collection of agent skills for Claude Code, Codex, Gemini, and Cursor. Install via `npx skills add n0an/skills`
 - **[app-intents](https://github.com/n0an/App-Intents-Agent-Skill)** - Writes correct Swift App Intents for Siri, Shortcuts, widgets, and Apple Intelligence; catches ~35 common LLM mistakes
+- **[aso](https://github.com/n0an/ASO-Agent-Skill)** - App Store Optimization for iOS apps - metadata and keywords, screenshots and product pages, custom product pages, ratings, Apple Ads and Meta app campaigns, and the ATT prompt; mechanics checked against Apple and Meta documentation
 - **[apple-debugging](https://github.com/n0an/Apple-Debugging-Agent-Skill)** - Debugs iOS, macOS, watchOS, tvOS, and visionOS apps live with LLDB and Xcode - breakpoints, state inspection and mutation, view debugging, memory, crash symbolication, and code without source
 - **[widgets](https://github.com/n0an/Widgets-Agent-Skill)** - Writes correct Swift WidgetKit code - Home Screen, Lock Screen, and watch widgets, Controls, Live Activities, and accented/tinted rendering
 - **[background-execution](https://github.com/n0an/Background-Execution-Agent-Skill)** - Writes correct Swift background-execution code - BGTaskScheduler, background URLSession, push, and background modes
